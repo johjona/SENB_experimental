@@ -1,5 +1,3 @@
-# SENB_experimental
-Experimental load-displacement data related to the paper "Fracture energy in tension perpendicular to grain: experimental evaluation and comparative numerical simulations".
 # SENB_experiments
 This repository contains the experimental data from the paper titled "Fracture energy of birch in tension perpendicular to grain: experimental evaluation and comparative numerical simulations". DOI: https://doi.org/10.1007/s00226-024-01595-6. Please cite the paper if these experiments are of use to you in your research.
 
